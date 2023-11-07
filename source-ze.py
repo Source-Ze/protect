@@ -1,3 +1,4 @@
+from config import Config 
 import requests
 from telebot import types
 import random
